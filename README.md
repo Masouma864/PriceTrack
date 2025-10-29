@@ -1,16 +1,38 @@
-# desktop_flutter_application
+# 💰 PriceTrack — Simple Flutter Price Tracking App
 
-A new Flutter project.
+A Flutter desktop app to calculate and store product prices locally using SQLite.  
+It allows users to input quantity, unit price, and optional discount — and automatically calculates the grand total.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Quantity, Unit Price, and Discount input fields  
+- Automatic total calculation  
+- Optional discount (shown only if checkbox is checked)  
+- Form validation for numeric values  
+- Local storage using SQLite  
+- Clean and responsive UI  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Technologies Used
+
+- Flutter (Material Design)
+- SQLite (sqflite_common_ffi)
+- Dart
+
+---
+
+## 📸 Screenshot
+
+<img width="666" height="671" alt="Screenshot 2025-10-29 125030" src="https://github.com/user-attachments/assets/3ae7963f-406a-4c30-ab73-fc6ab7ea80c6" />
+
+
+---
+
+## 🛠️ Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Masouma864/PriceTrack.git
