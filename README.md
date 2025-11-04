@@ -26,7 +26,8 @@ It allows users to input quantity, unit price, and optional discount — and aut
 
 ## 📸 Screenshot
 
-<img width="666" height="671" alt="Screenshot 2025-10-29 125030" src="https://github.com/user-attachments/assets/3ae7963f-406a-4c30-ab73-fc6ab7ea80c6" />
+<img width="1165" height="1022" alt="price app" src="https://github.com/user-attachments/assets/c2b7c720-1998-4442-86a6-7989cc16572f" />
+
 
 
 ---
